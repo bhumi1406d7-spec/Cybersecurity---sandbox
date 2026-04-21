@@ -36,8 +36,8 @@ This project is for educational purposes only.
 ---
 
 # Screenshots
-![output] (output.png)
-![python step 1] (python  1.png)
-![python step 2] (python  2.png)
+[output] (output.png)
+[python step 1] (python  1.png)
+[python step 2] (python  2.png)
 
  Created by Bhoomi
